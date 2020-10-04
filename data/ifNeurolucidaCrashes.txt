@@ -1,0 +1,3 @@
+- camera crashed => turn the camera box off and on again
+- motors won't run after neurolucida crash => restart motor box
+- z position keeps jumping between 2 far apart values => restart neurolucida
