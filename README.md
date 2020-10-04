@@ -1,4 +1,4 @@
-# Turn an old commercial brightfield live/real time neuron reconstruction setup into a volume tile scanner/slide scanner
+# Turn an old commercial brightfield live/real time neuron reconstruction setup into a volume tile scanner
 
 ## **!WARNING!**
 **DON'T BLINDLY RUN THIS CODE WITHOUT EXACTLY UNDERSTANDING HOW EVERY PART OF IT WORKS! IT WILL TAKE OVER THE MOUSE AND KEYBOARD TO INTERACT WITH THE COMMERCIAL PROGRAM GUI TO SEQUENTIALLY SCAN VOLUME BLOCKS LIKE A SLIDE SCANNER FOR YOUR AREA OF INTEREST VOLUME.**
